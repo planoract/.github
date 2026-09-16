@@ -1,2 +1,3 @@
-![Planoract](../planoract.jpeg)
+![Planoract](../planoract.png) 
+# Planoract
 
