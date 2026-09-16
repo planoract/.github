@@ -1,3 +1,3 @@
-# .github
+# Planoract.
 
-![Planoract](./planoract.jpeg)
+![Planoract](./planoract.png)
